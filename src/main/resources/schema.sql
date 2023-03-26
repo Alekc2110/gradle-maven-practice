@@ -2,6 +2,8 @@ DROP TABLE IF EXISTS person, student, tutor, subject, tutors_subjects, exam_resu
 DROP FUNCTION IF EXISTS get_average_mark_for_student;
 DROP FUNCTION IF EXISTS get_average_mark_for_subject;
 DROP FUNCTION IF EXISTS get_red_zone_students;
+DROP FUNCTION IF EXISTS update_student_updated_at cascade;
+
 DROP SEQUENCE IF EXISTS doctors_d_id_seq;
 CREATE SEQUENCE person_id_seq START WITH 100010 INCREMENT BY 10;
 
