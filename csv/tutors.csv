@@ -1,0 +1,100 @@
+person_id,position
+1,Professor
+2,Associate Professor
+3,Assistant Professor
+4,Lecturer
+5,Adjunct Professor
+6,Dean
+7,Chairperson
+8,Researcher
+9,Instructor
+10,Visiting Professor
+11,Postdoctoral Researcher
+12,Assistant Dean
+13,Lab Director
+14,Clinical Instructor
+15,Graduate Student Instructor
+16,Adjunct Lecturer
+17,Librarian
+18,Assistant Librarian
+19,Coordinator
+20,Program Director
+21,Assistant Program Director
+22,Counselor
+23,Admissions Officer
+24,Financial Aid Officer
+25,Registrar
+26,Assistant Registrar
+27,Provost
+28,Chancellor
+29,President
+30,Vice President
+31,Associate Vice President
+32,Assistant Vice President
+33,Executive Director
+34,Assistant Director
+35,Coordinator of Academic Affairs
+36,Director of Student Affairs
+37,Director of Career Services
+38,Director of Admissions
+39,Director of Financial Aid
+40,Director of Athletics
+41,Head Coach
+42,Assistant Coach
+43,Trainer
+44,Equipment Manager
+45,Groundskeeper
+46,Campus Security Officer
+47,IT Support Specialist
+48,Network Administrator
+49,Database Administrator
+50,Web Developer
+51,Graphic Designer
+52,Marketing Coordinator
+53,Public Relations Specialist
+54,Communications Director
+55,Event Planner
+56,Development Officer
+57,Fundraiser
+58,Alumni Relations Officer
+59,Grant Writer
+60,Research Analyst
+61,Data Analyst
+62,Statistician
+63,Mathematics Instructor
+64,Physics Instructor
+65,Chemistry Instructor
+66,Biology Instructor
+67,Geology Instructor
+68,Environmental Science Instructor
+69,Psychology Instructor
+70,Sociology Instructor
+71,Anthropology Instructor
+72,History Instructor
+73,Political Science Instructor
+74,Economics Instructor
+75,Philosophy Instructor
+76,Religious Studies Instructor
+77,English Instructor
+78,Foreign Language Instructor
+79,Fine Arts Instructor
+80,Performing Arts Instructor
+81,Architecture Instructor
+82,Engineering Instructor
+83,Computer Science Instructor
+84,Information Technology Instructor
+85,Education Instructor
+86,Health Sciences Instructor
+87,Public Health Instructor
+88,Nursing Instructor
+89,Dentistry Instructor
+90,Pharmacy Instructor
+91,Law Instructor
+92,Criminal Justice Instructor
+93,Social Work Instructor
+94,Library Science Instructor
+95,Business Instructor
+96,Finance Instructor
+97,Accounting Instructor
+98,Marketing Instructor
+99,Management Instructor

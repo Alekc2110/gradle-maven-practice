@@ -1,0 +1,402 @@
+id,name
+1,Mathematics
+2,English Language Arts
+3,Science
+4,Social Studies
+5,Physical Education
+6,Art
+7,Music
+8,Health
+9,Foreign Language
+10,Computer Science
+11,Business
+12,Engineering
+13,Architecture
+14,Law
+15,Medicine
+16,Dentistry
+17,Veterinary Medicine
+18,Pharmacy
+19,Nursing
+20,Education
+21,Psychology
+22,Communications
+23,Media Studies
+24,Journalism
+25,History
+26,Philosophy
+27,Religious Studies
+28,Anthropology
+29,Sociology
+30,Criminal Justice
+31,Political Science
+32,Geography
+33,Environmental Studies
+34,Public Administration
+35,Urban Planning
+36,International Relations
+37,Marketing
+38,Finance
+39,Accounting
+40,Management
+41,Human Resources
+42,Operations Management
+43,Supply Chain Management
+44,Statistics
+45,Economics
+46,Actuarial Science
+47,Mathematical Finance
+48,Applied Mathematics
+49,Physics
+50,Chemistry
+51,Biology
+52,Geology
+53,Astronomy
+54,Environmental Science
+55,Psychiatry
+56,Psychology
+57,Counseling
+58,Human Development
+59,Social Work
+60,Family Studies
+61,Child Development
+62,Early Childhood Education
+63,K-12 Education
+64,Higher Education
+65,Adult Education
+66,Library Science
+67,Information Science
+68,Information Technology
+69,Web Development
+70,Software Engineering
+71,Game Design
+72,Animation
+73,Graphic Design
+74,Interior Design
+75,Fashion Design
+76,Industrial Design
+77,Product Design
+78,Art History
+79,Music Theory
+80,Music Performance
+81,Music Education
+82,Theatre
+83,Dance
+84,Film Studies
+85,Screenwriting
+86,Visual Arts
+87,Art Education
+88,Ceramics
+89,Sculpture
+90,Painting
+91,Drawing
+92,Printmaking
+93,Photography
+94,Architecture History
+95,Landscape Architecture
+96,Urban Design
+97,Real Estate
+98,Construction Management
+99,Project Management
+100,Quality Assurance
+101,Food Science
+102,Culinary Arts
+103,Hotel Management
+104,Tourism Management
+105,Event Planning
+106,Sports Management
+107,Recreation Management
+108,Forensic Science
+109,Criminology
+110,Legal Studies
+111,Paralegal Studies
+112,Library Management
+113,Museum Studies
+114,Archival Studies
+115,Bookkeeping
+116,Small Business Management
+117,Entrepreneurship
+118,Public Relations
+119,Advertising
+120,Mass Communication
+121,Broadcast Journalism
+122,Digital Media
+123,Technical Writing
+124,Creative Writing
+125,English Literature
+126,World Literature
+127,Comparative Literature
+128,Linguistics
+129,Translation
+130,Teaching English as a Second Language
+131,Foreign Language Education
+132,Classical Languages
+133,Asian Languages
+134,Middle Eastern Languages
+135,African Languages
+136,Native American Languages
+137,Sign Language
+138,Gender Studies
+139,Queer Studies
+140,Race and Ethnicity Studies
+141,Disability Studies
+142,International Development
+143,Peace Studies
+144,Women's Studies
+145,Men's Studies
+146,Data Science
+147,Artificial Intelligence
+148,Machine Learning
+149,Robotics
+150,Cybersecurity
+151,Information Security
+152,Cloud Computing
+153,DevOps
+154,Data Analysis
+155,Big Data
+156,Data Visualization
+157,Data Warehousing
+158,Information Systems
+159,Information Management
+160,IT Project Management
+161,IT Governance
+162,IT Audit
+163,IT Risk Management
+164,IT Strategy
+165,IT Service Management
+166,IT Operations
+167,IT Infrastructure
+168,Web Design
+169,User Experience Design
+170,User Interface Design
+171,Mobile App Development
+172,Game Development
+173,Virtual Reality Development
+174,Augmented Reality Development
+175,Blockchain
+176,Cryptocurrency
+177,Quantum Computing
+178,Energy Engineering
+179,Environmental Engineering
+180,Chemical Engineering
+181,Civil Engineering
+182,Mechanical Engineering
+183,Electrical Engineering
+184,Electronic Engineering
+185,Computer Engineering
+186,Industrial Engineering
+187,Materials Science
+188,Nanotechnology
+189,Food Engineering
+190,Water Resources Engineering
+191,Transportation Engineering
+192,Geotechnical Engineering
+193,Structural Engineering
+194,Engineering Management
+195,Healthcare Administration
+196,Health Informatics
+197,Health Policy and Management
+198,Public Health
+199,Epidemiology
+200,Global Health
+201,Health Education
+202,Health Psychology
+203,Healthcare Ethics
+204,Healthcare Finance
+205,Healthcare Marketing
+206,Healthcare Operations
+207,Healthcare Quality
+208,Healthcare Law
+209,Medical Billing and Coding
+210,Medical Assisting
+211,Medical Laboratory Science
+212,Physical Therapy
+213,Occupational Therapy
+214,Speech-Language Pathology
+215,Phlebotomy
+216,Radiologic Technology
+217,Ultrasound Technology
+218,Cardiovascular Technology
+219,Surgical Technology
+220,Respiratory Therapy
+221,Pharmacology
+222,Pharmaceutical Sciences
+223,Pharmaceutical Marketing
+224,Pharmaceutical Management
+225,Biotechnology
+226,Bioinformatics
+227,Biomedical Engineering
+228,Biochemistry
+229,Molecular Biology
+230,Genetics
+231,Neuroscience
+232,Immunology
+233,Pathology
+234,Anatomy
+235,Physiology
+236,Cell Biology
+237,Developmental Biology
+238,Marine Biology
+239,Zoology
+240,Botany
+241,Plant Science
+242,Agricultural Science
+243,Animal Science
+244,Environmental Science and Policy
+245,Climate Change Studies
+246,Geography and Environmental Systems
+247,Sustainable Development
+248,Conservation Biology
+249,Environmental Chemistry
+250,Earth Science
+251,Atmospheric Science
+252,Space Science
+253,Science Communication
+254,Science Journalism
+255,Science Writing
+256,Science Education
+257,Science Policy
+258,Science Ethics
+259,Marketing Analytics
+260,Strategic Management
+261,Organizational Behavior
+262,Corporate Finance
+263,Investment Banking
+264,Financial Risk Management
+265,Financial Engineering
+266,Quantitative Finance
+267,Marketing Management
+268,Consumer Behavior
+269,Brand Management
+270,Product Management
+271,Retail Management
+272,Operations Management
+273,Supply Chain Management
+274,Logistics Management
+275,Project Management
+276,Leadership and Management
+277,Business Strategy
+278,Entrepreneurship
+279,Innovation Management
+280,Social Entrepreneurship
+281,International Business
+282,Global Strategy
+283,International Marketing
+284,International Trade
+285,International Finance
+286,Cross-Cultural Management
+287,Human Resource Management
+288,Employment Law
+289,Compensation and Benefits
+290,Training and Development
+291,Recruiting and Staffing
+292,Employee Relations
+293,Organizational Development
+294,Conflict Resolution
+295,Industrial Relations
+296,Health and Safety Management
+297,Information Technology Management
+298,Information Security Management
+299,Database Management
+300,Software Engineering
+301,Computer Programming
+302,Web Development
+303,Network Administration
+304,Data Center Management
+305,Art History
+306,Art Criticism
+307,Art Therapy
+308,Visual Arts
+309,Painting
+310,Drawing
+311,Sculpture
+312,Photography
+313,Printmaking
+314,Textile Arts
+315,Ceramics
+316,Glassblowing
+317,Jewelry Design
+318,Interior Design
+319,Architecture
+320,Landscape Architecture
+321,Urban Planning
+322,Graphic Design
+323,Animation
+324,Illustration
+325,Game Design
+326,Fashion Design
+327,Industrial Design
+328,Product Design
+329,Environmental Design
+330,Theater Studies
+331,Dance Studies
+332,Film Studies
+333,Television Studies
+334,Media Studies
+335,Journalism
+336,Broadcast Journalism
+337,Print Journalism
+338,Photojournalism
+339,Public Relations
+340,Advertising
+341,Market Research
+342,Consumer Psychology
+343,Sociology
+344,Anthropology
+345,Psychology
+346,Child Psychology
+347,Developmental Psychology
+348,Cognitive Psychology
+349,Social Psychology
+350,Personality Psychology
+351,Abnormal Psychology
+352,Forensic Psychology
+353,Health Psychology
+354,Positive Psychology
+355,Counseling Psychology
+356,Marriage and Family Therapy
+357,Addiction Counseling
+358,School Psychology
+359,Neuropsychology
+360,Industrial-Organizational Psychology
+361,Criminology
+362,Political Science
+363,International Relations
+364,Comparative Politics
+365,Public Administration
+366,Public Policy
+367,Philosophy
+368,Logic
+369,Ethics
+370,Aesthetics
+371,Epistemology
+372,Metaphysics
+373,Religious Studies
+374,Theology
+375,History
+376,World History
+377,European History
+378,Asian History
+379,African History
+380,Latin American History
+381,Medieval History
+382,Renaissance History
+383,Modern History
+384,Contemporary History
+385,Archaeology
+386,Classics
+387,English Literature
+388,American Literature
+389,World Literature
+390,Children's Literature
+391,Poetry
+392,Drama
+393,IT java
+394,IT python
+395,IT javascript
+396,IT ruby
+397,IT go
+398,IT html/css
+399,IT scala
+400,IT NodeJs
+401,IT Business analyst
