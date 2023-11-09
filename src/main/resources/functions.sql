@@ -36,7 +36,7 @@ RETURNS TABLE (stud_id INTEGER, stud_name VARCHAR, stud_surname VARCHAR) AS
 $$
 BEGIN
     RETURN QUERY
-        SELECT s.person_id, p.name AS student_name, p.surname AS student_surname
+        SELECT s.person_id ,p.name ,p.surname
         FROM student s
                  JOIN person p on p.id = s.person_id
                  JOIN exam_results er ON s.person_id = er.student_id

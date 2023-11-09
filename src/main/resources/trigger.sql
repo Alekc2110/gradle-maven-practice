@@ -4,11 +4,15 @@ $$
 BEGIN
   NEW.updated_at := now();
 RETURN NEW;
-END;
+END
 $$ LANGUAGE plpgsql;
 
 CREATE TRIGGER student_update_trigger
-    BEFORE UPDATE ON student
+    --INSTEAD OF || AFTER
+    BEFORE
+       --DELETE || INSERT
+        UPDATE
+    ON student
     FOR EACH ROW
-    EXECUTE FUNCTION update_student_updated_at();
+    EXECUTE PROCEDURE update_student_updated_at();
 
